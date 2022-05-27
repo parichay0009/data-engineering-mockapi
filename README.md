@@ -5,7 +5,7 @@
 ├── crontab (script to run process everyday)
 ├── docker-compose.yml (setup container for postgres and application)
 ├── Dockerfile
-├── entry_pont.sh (script to build and up containers)
+├── entry_point.sh (script to build and up containers)
 ├── project
 │   ├── config.py (configuration values)
 │   ├── etl.py (extract transform and load data)
