@@ -21,7 +21,7 @@
 
 1. To build and run docker container:
     ```
-    ./entry_pont.sh 
+    ./entry_point.sh 
     ```
 1. To check all the results of all queries (provide password as db_password):
     ```
